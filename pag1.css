@@ -1,0 +1,22 @@
+
+*{
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+nav{
+    background: #212A1A;
+
+}
+
+.logo{
+    margin-left: 20vw;
+    margin-right: 15vw;
+}
+
+form{
+    margin-right: 5vw;
+}
+.compras{
+    margin-left: 50vw;
+}
